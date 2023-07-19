@@ -1,0 +1,10 @@
+{
+   "firefox-compact-dark@mozilla.org":{
+      "permissions":[
+         "internal:privateBrowsingAllowed"
+      ],
+      "origins":[
+         
+      ]
+   }
+}

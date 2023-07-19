@@ -7,6 +7,8 @@
  * To make lasting changes to preferences, you will have to edit the user.js.
  */
 
+user_pref("extensions.activeThemeID", "firefox-compact-dark@mozilla.org");
+
 /****************************************************************************
  * Betterfox                                                                *
  * "Ad meliora"                                                             *
